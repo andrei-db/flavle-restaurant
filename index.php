@@ -192,7 +192,40 @@
         </div>
     </section>
 
+    <footer class="site-footer">
+        <div class="footer-grid">
+            <div>
+                <a href="#" class="footer-logo">Flavle</a>
+                <p>
+                    Luxury fine dining built around refined cuisine,
+                    intimate atmosphere, and unforgettable evenings.
+                </p>
+            </div>
 
+            <div>
+                <h3>Visit</h3>
+                <p>Strada Victoriei 24<br>Bucharest, Romania</p>
+            </div>
+
+            <div>
+                <h3>Hours</h3>
+                <p>Mon — Sun<br>18:00 — 23:30</p>
+            </div>
+
+            <div>
+                <h3>Contact</h3>
+                <p>
+                    +40 123 456 789<br>
+                    reservations@flavle.com
+                </p>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <span>© <?php echo date('Y'); ?> Flavle. All rights reserved.</span>
+            <a href="#reservation">Reserve a Table</a>
+        </div>
+    </footer>
 
     <?php wp_footer(); ?>
 

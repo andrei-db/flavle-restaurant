@@ -782,3 +782,13 @@ html {
     }
 
 }
+.reveal-section {
+    opacity: 0;
+    transform: translateY(36px);
+    transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.reveal-section.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+}

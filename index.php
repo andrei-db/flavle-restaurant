@@ -90,6 +90,47 @@
         </div>
     </section>
 
+    <section class="signature-dishes" id="menu">
+        <div class="section-label">Signature Dishes</div>
+
+        <div class="dishes-header">
+            <h2>A menu designed around flavour, fire, and finesse.</h2>
+            <p>
+                A curated selection of signature plates crafted to turn every
+                reservation into a memorable evening.
+            </p>
+        </div>
+
+        <div class="dishes-grid">
+            <article class="dish-card">
+                <img src="https://images.unsplash.com/photo-1546833999-b9f581a1996d" alt="Premium steak dish">
+                <div class="dish-content">
+                    <span>Prime Cut</span>
+                    <h3>Charcoal Ribeye</h3>
+                    <p>Dry-aged ribeye, smoked butter, roasted garlic jus.</p>
+                </div>
+            </article>
+
+            <article class="dish-card">
+                <img src="https://images.unsplash.com/photo-1600891964092-4316c288032e" alt="Fine dining plate">
+                <div class="dish-content">
+                    <span>Chef Selection</span>
+                    <h3>Truffle Tenderloin</h3>
+                    <p>Beef tenderloin, black truffle glaze, seasonal greens.</p>
+                </div>
+            </article>
+
+            <article class="dish-card">
+                <img src="https://images.unsplash.com/photo-1600891964599-f61ba0e24092" alt="Elegant dessert">
+                <div class="dish-content">
+                    <span>Sweet Finish</span>
+                    <h3>Velvet Chocolate</h3>
+                    <p>Dark chocolate crémeux, gold dust, espresso crumble.</p>
+                </div>
+            </article>
+        </div>
+    </section>
+
     <?php wp_footer(); ?>
 
 </body>

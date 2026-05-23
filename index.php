@@ -137,6 +137,32 @@
         </div>
     </section>
 
+    <section class="chef-story">
+        <div class="chef-story-grid">
+            <div class="chef-story-image">
+                <img
+                    src="https://images.unsplash.com/photo-1577219491135-ce391730fb2c"
+                    alt="Executive chef preparing fine dining dishes at Flavle restaurant"
+                    loading="lazy"
+                    decoding="async">
+            </div>
+
+            <div class="chef-story-content">
+                <p class="section-label">Chef’s Philosophy</p>
+
+                <h2>Every dish is built around restraint, precision, and emotion.</h2>
+
+                <p>
+                    At Flavle, the kitchen focuses on premium seasonal ingredients,
+                    careful technique, and elegant presentation — creating dishes that
+                    feel refined without losing warmth or character.
+                </p>
+
+                <a href="#reservation" class="btn-secondary">Experience Flavle</a>
+            </div>
+        </div>
+    </section>
+
     <section class="signature-dishes" id="menu">
         <div class="section-label">Signature Dishes</div>
 

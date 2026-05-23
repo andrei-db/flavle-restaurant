@@ -23,6 +23,45 @@
             "url": "https://flavle.com"
         }
     </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                    "@type": "Question",
+                    "name": "Do I need a reservation?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Reservations are recommended, especially for weekends and special evenings."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What type of cuisine does Flavle serve?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Flavle focuses on refined fine dining with premium seasonal ingredients."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is Flavle suitable for private celebrations?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes. The intimate atmosphere is ideal for anniversaries, birthdays, and special dinners."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Where is Flavle located?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Flavle is located on Strada Victoriei 24, Bucharest, Romania."
+                    }
+                }
+            ]
+        }
+    </script>
     <?php wp_head(); ?>
 </head>
 

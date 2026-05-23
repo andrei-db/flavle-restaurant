@@ -32,13 +32,11 @@
                 Luxury Fine Dining
             </p>
 
-            <h1>
-                An Elevated Dining Experience
-            </h1>
+            <h1>Luxury Fine Dining Restaurant in Bucharest</h1>
 
             <p class="hero-description">
-                Where refined atmosphere, exceptional cuisine,
-                and unforgettable evenings come together.
+                Experience refined cuisine, intimate atmosphere, and unforgettable evenings
+                at Flavle — a premium dining destination in the heart of Bucharest.
             </p>
 
             <div class="hero-buttons">
@@ -103,7 +101,8 @@
 
         <div class="dishes-grid">
             <article class="dish-card">
-                <img src="https://images.unsplash.com/photo-1546833999-b9f581a1996d" alt="Premium steak dish">
+                <img src="https://images.unsplash.com/photo-1546833999-b9f581a1996d" 
+                alt="Dry aged ribeye steak with smoked butter at Flavle fine dining restaurant">
                 <div class="dish-content">
                     <span>Prime Cut</span>
                     <h3>Charcoal Ribeye</h3>
@@ -112,7 +111,8 @@
             </article>
 
             <article class="dish-card">
-                <img src="https://images.unsplash.com/photo-1600891964092-4316c288032e" alt="Fine dining plate">
+                <img src="https://images.unsplash.com/photo-1600891964092-4316c288032e" 
+                alt="Premium beef tenderloin with black truffle glaze and seasonal greens">
                 <div class="dish-content">
                     <span>Chef Selection</span>
                     <h3>Truffle Tenderloin</h3>
@@ -121,7 +121,8 @@
             </article>
 
             <article class="dish-card">
-                <img src="https://images.unsplash.com/photo-1600891964599-f61ba0e24092" alt="Elegant dessert">
+                <img src="https://images.unsplash.com/photo-1600891964599-f61ba0e24092" 
+                alt="Luxury dark chocolate dessert with gold garnish at Flavle restaurant">
                 <div class="dish-content">
                     <span>Sweet Finish</span>
                     <h3>Velvet Chocolate</h3>
@@ -143,9 +144,12 @@
         </div>
 
         <div class="gallery-grid">
-            <img src="https://images.unsplash.com/photo-1514933651103-005eec06c04b" alt="Luxury restaurant interior">
-            <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5" alt="Elegant restaurant table">
-            <img src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0" alt="Fine dining atmosphere">
+            <img src="https://images.unsplash.com/photo-1514933651103-005eec06c04b" 
+            alt="Elegant luxury restaurant interior with warm ambient lighting">
+            <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5" 
+            alt="Fine dining table setup with candles and premium dinner atmosphere">
+            <img src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0" 
+            alt="Modern luxury dining room at Flavle restaurant in Bucharest">
         </div>
     </section>
 

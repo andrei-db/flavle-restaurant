@@ -471,6 +471,9 @@
         </div>
     </footer>
 
+    <a href="#reservation" class="mobile-booking-button">
+        Reserve Your Table
+    </a>
     <?php wp_footer(); ?>
 
 </body>

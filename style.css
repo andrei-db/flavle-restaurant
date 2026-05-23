@@ -899,3 +899,50 @@ html {
         grid-template-columns: 1fr;
     }
 }
+
+.noise {
+    position: fixed;
+    inset: 0;
+
+    pointer-events: none;
+    z-index: 1;
+
+    opacity: 0.035;
+
+    background-image:
+        url("https://grainy-gradients.vercel.app/noise.svg");
+}
+
+.page-glow {
+    position: fixed;
+
+    top: -200px;
+    left: 50%;
+
+    transform: translateX(-50%);
+
+    width: 900px;
+    height: 900px;
+
+    border-radius: 999px;
+
+    background:
+        radial-gradient(
+            circle,
+            rgba(212,175,55,0.12),
+            transparent 70%
+        );
+
+    filter: blur(90px);
+
+    pointer-events: none;
+
+    z-index: 0;
+}
+
+section,
+.site-header,
+.site-footer {
+    position: relative;
+    z-index: 2;
+}

@@ -28,6 +28,9 @@
 
 <body <?php body_class(); ?>>
 
+    <div class="noise"></div>
+    <div class="page-glow"></div>
+
     <header class="site-header">
         <a href="#" class="logo">Flavle</a>
 

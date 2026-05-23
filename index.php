@@ -72,6 +72,30 @@
 
     </section>
 
+    <section class="trust-bar">
+
+        <div class="trust-item">
+            <strong>4.9/5</strong>
+            <span>Guest Rating</span>
+        </div>
+
+        <div class="trust-item">
+            <strong>12K+</strong>
+            <span>Guests Served</span>
+        </div>
+
+        <div class="trust-item">
+            <strong>Top Rated</strong>
+            <span>Fine Dining Experience</span>
+        </div>
+
+        <div class="trust-item">
+            <strong>Limited Seating</strong>
+            <span>Reservation Recommended</span>
+        </div>
+
+    </section>
+
     <section class="experience" id="experience">
         <div class="section-label">The Experience</div>
 

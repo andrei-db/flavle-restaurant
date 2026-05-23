@@ -420,6 +420,19 @@
         </div>
     </section>
 
+    <section class="final-cta">
+        <div class="final-cta-inner">
+            <div>
+                <p class="section-label">Plan Your Evening</p>
+                <h2>Ready for a refined dining experience?</h2>
+            </div>
+
+            <a href="#reservation" class="btn-primary">
+                Reserve Your Table
+            </a>
+        </div>
+    </section>
+
     <footer class="site-footer">
         <div class="footer-grid">
             <div>

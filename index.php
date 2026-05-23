@@ -8,6 +8,19 @@
 
 <body <?php body_class(); ?>>
 
+<header class="site-header">
+    <a href="#" class="logo">Flavle</a>
+
+    <nav class="nav-menu">
+        <a href="#experience">Experience</a>
+        <a href="#menu">Menu</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#reservation">Reservation</a>
+    </nav>
+
+    <a href="#reservation" class="nav-cta">Book a Table</a>
+</header>
+
 <section class="hero">
 
     <div class="overlay"></div>

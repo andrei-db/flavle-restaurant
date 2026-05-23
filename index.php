@@ -131,6 +131,24 @@
         </div>
     </section>
 
+    <section class="gallery" id="gallery">
+        <div class="section-label">Atmosphere</div>
+
+        <div class="gallery-header">
+            <h2>A refined setting designed for memorable evenings.</h2>
+            <p>
+                Warm lighting, intimate tables, crafted details, and a dining room
+                built around atmosphere.
+            </p>
+        </div>
+
+        <div class="gallery-grid">
+            <img src="https://images.unsplash.com/photo-1514933651103-005eec06c04b" alt="Luxury restaurant interior">
+            <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5" alt="Elegant restaurant table">
+            <img src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0" alt="Fine dining atmosphere">
+        </div>
+    </section>
+
     <section class="testimonials">
         <div class="section-label">Guest Reviews</div>
 

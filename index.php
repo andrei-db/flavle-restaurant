@@ -131,6 +131,31 @@
         </div>
     </section>
 
+    <section class="testimonials">
+        <div class="section-label">Guest Reviews</div>
+
+        <div class="testimonials-header">
+            <h2>Trusted by guests who return for the experience.</h2>
+        </div>
+
+        <div class="testimonials-grid">
+            <article class="testimonial-card">
+                <p>“Elegant atmosphere, flawless service, and one of the best dining experiences we’ve had.”</p>
+                <span>— Elena M.</span>
+            </article>
+
+            <article class="testimonial-card">
+                <p>“Everything feels premium, from the food presentation to the attention to detail.”</p>
+                <span>— Adrian C.</span>
+            </article>
+
+            <article class="testimonial-card">
+                <p>“Perfect for a special evening. The reservation was absolutely worth it.”</p>
+                <span>— Sofia R.</span>
+            </article>
+        </div>
+    </section>
+
     <section class="reservation-cta" id="reservation">
         <div class="reservation-inner">
             <p class="section-label">Reservations</p>
@@ -149,7 +174,7 @@
         </div>
     </section>
 
-    
+
 
     <?php wp_footer(); ?>
 

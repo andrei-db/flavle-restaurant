@@ -273,10 +273,22 @@
                 elevated dining experience.
             </p>
 
-            <div class="reservation-actions">
-                <a href="#" class="btn-primary">Book a Table</a>
-                <a href="tel:+40123456789" class="btn-secondary">Call Us</a>
-            </div>
+            <form class="booking-form">
+                <input type="text" placeholder="Full name" required>
+                <input type="email" placeholder="Email address" required>
+                <input type="tel" placeholder="Phone number" required>
+                <input type="date" required>
+                <input type="time" required>
+                <select required>
+                    <option value="">Guests</option>
+                    <option>2 guests</option>
+                    <option>3 guests</option>
+                    <option>4 guests</option>
+                    <option>5+ guests</option>
+                </select>
+
+                <button type="submit" class="btn-primary">Request Reservation</button>
+            </form>
         </div>
     </section>
 

@@ -131,6 +131,26 @@
         </div>
     </section>
 
+    <section class="reservation-cta" id="reservation">
+        <div class="reservation-inner">
+            <p class="section-label">Reservations</p>
+
+            <h2>Reserve your table for an unforgettable evening.</h2>
+
+            <p>
+                Limited seats are available each night to preserve an intimate,
+                elevated dining experience.
+            </p>
+
+            <div class="reservation-actions">
+                <a href="#" class="btn-primary">Book a Table</a>
+                <a href="tel:+40123456789" class="btn-secondary">Call Us</a>
+            </div>
+        </div>
+    </section>
+
+    
+
     <?php wp_footer(); ?>
 
 </body>

@@ -71,6 +71,7 @@
     <div class="page-glow"></div>
 
     <header class="site-header">
+        <div class="header-wrapper">
         <a href="<?php echo home_url(); ?>" class="logo">Flavle</a>
 
         <nav class="nav-menu">
@@ -81,6 +82,7 @@
         </nav>
 
         <a href="#reservation" class="nav-cta">Book a Table</a>
+        </div>
     </header>
 
     <main>

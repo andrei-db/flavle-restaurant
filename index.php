@@ -157,6 +157,59 @@
         </div>
     </section>
 
+    <section class="menu-preview">
+        <div class="section-label">Selected Menu</div>
+
+        <div class="menu-header">
+            <h2>Signature flavours curated with precision.</h2>
+
+            <p>
+                Every plate is crafted to balance premium ingredients,
+                elegant presentation, and unforgettable taste.
+            </p>
+        </div>
+
+        <div class="menu-grid">
+
+            <div class="menu-item">
+                <div>
+                    <h3>Charcoal Ribeye</h3>
+                    <p>Dry-aged ribeye, smoked butter, garlic jus.</p>
+                </div>
+
+                <span>48€</span>
+            </div>
+
+            <div class="menu-item">
+                <div>
+                    <h3>Truffle Tenderloin</h3>
+                    <p>Prime beef tenderloin, black truffle glaze.</p>
+                </div>
+
+                <span>56€</span>
+            </div>
+
+            <div class="menu-item">
+                <div>
+                    <h3>Lobster Linguine</h3>
+                    <p>Fresh lobster, saffron cream, parmesan.</p>
+                </div>
+
+                <span>42€</span>
+            </div>
+
+            <div class="menu-item">
+                <div>
+                    <h3>Velvet Chocolate</h3>
+                    <p>Dark chocolate crémeux, espresso crumble.</p>
+                </div>
+
+                <span>18€</span>
+            </div>
+
+        </div>
+    </section>
+
     <section class="gallery" id="gallery">
         <div class="section-label">Atmosphere</div>
 

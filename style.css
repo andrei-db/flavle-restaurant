@@ -932,3 +932,8 @@ section,
         flex-direction: column;
     }
 }
+
+.site-header.is-scrolled {
+    background: rgba(8, 8, 8, 0.88);
+    border-color: rgba(212, 175, 55, 0.22);
+}

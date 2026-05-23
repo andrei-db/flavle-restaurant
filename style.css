@@ -962,3 +962,8 @@ section,
     position: relative;
     z-index: 2;
 }
+.hero-note {
+    margin-top: 18px;
+    color: rgba(245,241,232,0.55);
+    font-size: 0.9rem;
+}

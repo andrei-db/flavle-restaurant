@@ -51,7 +51,7 @@
         <div class="hero-content">
 
             <p class="hero-label">
-                Luxury Fine Dining
+                Fine Dining • Limited Seating • Bucharest
             </p>
 
             <h1>Luxury Fine Dining Restaurant in Bucharest</h1>
@@ -62,14 +62,17 @@
             </p>
 
             <div class="hero-buttons">
-                <a href="#" class="btn-primary">
-                    Reserve a Table
+                <a href="#reservation" class="btn-primary">
+                    Reserve Your Table
                 </a>
 
-                <a href="#" class="btn-secondary">
-                    Explore Menu
+                <a href="#menu" class="btn-secondary">
+                    View Signature Menu
                 </a>
             </div>
+            <p class="hero-note">
+                Reservations recommended for weekends and special evenings.
+            </p>
 
         </div>
 

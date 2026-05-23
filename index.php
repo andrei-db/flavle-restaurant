@@ -102,7 +102,9 @@
         <div class="dishes-grid">
             <article class="dish-card">
                 <img src="https://images.unsplash.com/photo-1546833999-b9f581a1996d" 
-                alt="Dry aged ribeye steak with smoked butter at Flavle fine dining restaurant">
+                alt="Dry aged ribeye steak with smoked butter at Flavle fine dining restaurant"
+                loading="lazy"
+                decoding="async">
                 <div class="dish-content">
                     <span>Prime Cut</span>
                     <h3>Charcoal Ribeye</h3>
@@ -112,7 +114,9 @@
 
             <article class="dish-card">
                 <img src="https://images.unsplash.com/photo-1600891964092-4316c288032e" 
-                alt="Premium beef tenderloin with black truffle glaze and seasonal greens">
+                alt="Premium beef tenderloin with black truffle glaze and seasonal greens"
+                loading="lazy"
+                decoding="async">
                 <div class="dish-content">
                     <span>Chef Selection</span>
                     <h3>Truffle Tenderloin</h3>
@@ -122,7 +126,9 @@
 
             <article class="dish-card">
                 <img src="https://images.unsplash.com/photo-1600891964599-f61ba0e24092" 
-                alt="Luxury dark chocolate dessert with gold garnish at Flavle restaurant">
+                alt="Luxury dark chocolate dessert with gold garnish at Flavle restaurant"
+                loading="lazy"
+                decoding="async">
                 <div class="dish-content">
                     <span>Sweet Finish</span>
                     <h3>Velvet Chocolate</h3>
@@ -145,11 +151,17 @@
 
         <div class="gallery-grid">
             <img src="https://images.unsplash.com/photo-1514933651103-005eec06c04b" 
-            alt="Elegant luxury restaurant interior with warm ambient lighting">
+            alt="Elegant luxury restaurant interior with warm ambient lighting"
+            loading="lazy"
+            decoding="async">
             <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5" 
-            alt="Fine dining table setup with candles and premium dinner atmosphere">
+            alt="Fine dining table setup with candles and premium dinner atmosphere"
+            loading="lazy"
+            decoding="async">
             <img src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0" 
-            alt="Modern luxury dining room at Flavle restaurant in Bucharest">
+            alt="Modern luxury dining room at Flavle restaurant in Bucharest"
+            loading="lazy"
+            decoding="async">
         </div>
     </section>
 

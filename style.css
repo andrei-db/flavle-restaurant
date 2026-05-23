@@ -680,3 +680,11 @@ html {
         gap: 28px;
     }
 }
+.dish-card,
+.testimonial-card,
+.gallery-grid img,
+.btn-primary,
+.btn-secondary,
+.nav-cta {
+    will-change: transform;
+}
